@@ -1,5 +1,11 @@
 # ZapPad
 
+## Description
+ZapPad is meant to be a programmable macropad which can do anything, you can display anything on the OLED screen, make the rotary encoder change something, and same for the keys. But currently it is made to be a media controller which can control your volume with the knob and more as you can see below.
+
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/77b74589-c15f-47ec-bb19-951e16b877c3" />
+
+
 ## Visuals
 <img width="541" alt="image" src="https://github.com/user-attachments/assets/fafcdabd-ded1-4ae8-9809-f86ae5038940" />
 <img width="994" alt="image" src="https://github.com/user-attachments/assets/52b3adce-2f17-4247-8166-cd1504f130dd" />
