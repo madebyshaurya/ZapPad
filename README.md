@@ -7,7 +7,9 @@ ZapPad is meant to be a programmable macropad which can do anything, you can dis
 
 
 ## Visuals
-<img width="541" alt="image" src="https://github.com/user-attachments/assets/fafcdabd-ded1-4ae8-9809-f86ae5038940" />
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/fe09f06a-bd8f-4eb9-93e2-75cc42f860b8" />
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/d6cb6f47-5350-4f8a-b881-b4d2415089da" />
+<img width="840" alt="image" src="https://github.com/user-attachments/assets/dbea2f03-c3c7-4115-b4c7-99cf58b659a6" />
 <img width="994" alt="image" src="https://github.com/user-attachments/assets/52b3adce-2f17-4247-8166-cd1504f130dd" />
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/fc647954-ef9e-43ef-a8e1-38bdae006f4e" />
 <img width="628" alt="image" src="https://github.com/user-attachments/assets/46e6f6fc-b84a-44a2-aa51-9c5ad99039a0" />
